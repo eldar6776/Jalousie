@@ -1,0 +1,49 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~DE-120824.PrjPcb|ReportField=ProjectFullPath~D:\ProjektiOtvoreni\Expanderi\JalousieExpander\DE-120824\DE-120824.PrjPcb|ReportField=Title~Bill of Materials For Project [DE-120824.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~163|ReportField=ReportTime~10:48:14|ReportField=ReportDate~14. 8. 2024.|ReportField=ReportDateTime~14. 8. 2024. 10:48:14|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~Braće Mulić 81|ReportField=Address2~71000 Sarajevo|ReportField=Address3~Federacija BiH|ReportField=Address4~Bosna i Hercegovina|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~eldar6776@hotmail.com|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~14. 8. 2024.|ReportField=CurrentTime~10:48:03|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\ProjektiOtvoreni\Expanderi\JalousieExpander\DE-120824\DE-120824.SchDoc|ReportField=DocumentName~DE-120824.SchDoc|ReportField=DocumentNumber~DE-120824|ReportField=DrawnBy~Eldar Dedic|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~13. 8. 2024.|ReportField=Organization~JUBERA d.o.o.|ReportField=ProjectName~DE-120824.PrjPcb|ReportField=Revision~001|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~2|ReportField=Time~|ReportField=Title~JalousieBoard|ReportField=DataSourceFileName~DE-120824.PrjPcb|ReportField=DataSourceFullPath~D:\ProjektiOtvoreni\Expanderi\JalousieExpander\DE-120824\DE-120824.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|C0603|Ceramic Chip Capacitor - Standard|C1, C2, C4, C5, C7, C9, C11, C12, C13, C14, C21, C22, C23|0603|C0603|13
+2|C0805|Ceramic Chip Capacitor - Standard|C3, C6, C10|0805|C0805|3
+3|100nF|Ceramic Chip Capacitor - Standard|C8, C18, C19, C20|0603|C0603|4
+4|470uF|Aluminum Electrolytic Capacitor, Radial Style with Long Leads: 470uF, 25V|C15, C16|CAPPR5-10X12.5|EKA00DC347E00|2
+5|22uF|Aluminum Electrolytic Capacitor, Radial Style with Long Leads: 47uF, 35V|C17|CAPPR2-5X11|EKA00AA247F00|1
+6|1N4148|Schottky Barrier Diode|D1|SOD323|1PS76SB10|1
+7|BTA08-600|Triacs, Silicon Bidirectional Thyristor, 3-Pin TO-220, Pb-Free, Tube|D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D18, D22, D26|ONSC-TO-220-3-221A-07|BTA08-600BW3G|16
+8|LED0|Blue Surface Mount Chip LED, Blue|D15|1.6X0.8X0.8|HSMB-C190|1
+9|LED3|Blue Surface Mount Chip LED, Blue|D16|1.6X0.8X0.8|HSMB-C190|1
+10|LED6|Blue Surface Mount Chip LED, Blue|D17, D21|1.6X0.8X0.8|HSMB-C190|2
+11|LED1|Blue Surface Mount Chip LED, Blue|D19|1.6X0.8X0.8|HSMB-C190|1
+12|LED4|Blue Surface Mount Chip LED, Blue|D20|1.6X0.8X0.8|HSMB-C190|1
+13|LED2|Blue Surface Mount Chip LED, Blue|D23|1.6X0.8X0.8|HSMB-C190|1
+14|LED5|Blue Surface Mount Chip LED, Blue|D24|1.6X0.8X0.8|HSMB-C190|1
+15|LED7|Blue Surface Mount Chip LED, Blue|D25|1.6X0.8X0.8|HSMB-C190|1
+16|HF25F|PCB relay 250VAC/20A 30VDC/16A|K1|HF25F|HF25F|1
+17|BLM15AG121|SMD chip inductor|L1, L2|0402-A|Chip inductor|2
+18|RS485|Terminal blok konektor 3,5 mm|P1|TERMINAL BLOK 2|TERMINAL BLOK 2|1
+19|Header 12|Header, 12-Pin|P2, P3, P6, P7, P15, P17, P18, P19|HDR1X12|Header 12|8
+20|ICSP|Header, 3-Pin|P4|HDR1X3|Header 3|1
+21|Header 10|Header, 10-Pin|P5, P16|HDR1X10|Header 10|2
+22||3 pinski terminal blok konektor|P8, P9, P10, P11, P13|TERMINAL BLOK 3|TERMINAL BLOK 3|5
+23|DC_IN|Terminal blok konektor 3,5 mm|P12|TERMINAL BLOK 2|TERMINAL BLOK 2|1
+24||Terminal blok konektor 3,5 mm|P14|TERMINAL BLOK 2|TERMINAL BLOK 2|1
+25|BC817|NPN General-purpose Transistor|Q1|SOT23_N|BC817|1
+26|10K|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Rectangular Thick Film Chip Resistor, 10 Ohm to 330k Ohm Range, 0.1% and 0.5% Tolerance, 0603 Size, 0.063 W|R1, R8|ERA-0603|ERAV, ERA3Y|2
+27|10R|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R2, R3|ERA-0603|ERAV|2
+28|1K2|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R4|ERA-0603|ERAV|1
+29|2K2|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W, Rectangular Thick Film Chip Resistor, 10 Ohm to 330k Ohm Range, 0.1% and 0.5% Tolerance, 0603 Size, 0.063 W, Rectangular Thick Film Chip Resistor, 10 Ohm to 330k Ohm Range, 0.1% and 0.5% Tolerance, 0603 Size, 0.063 W, Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R5, R6, R7, R10|ERA-0603|ERAV, ERA3Y, ERA3Y, ERAV|4
+30|100R|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R9|ERA-0603|ERAV|1
+31|100K|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0603 Size, 0.063 W|R11|ERA-0603|ERAV|1
+32|120R|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0805 Size, 0.1 W|R12, R13, R14, R15, R16, R17, R24, R25, R26, R27, R28, R29, R36, R37, R38, R39, R40, R41, R48, R49, R50, R51, R52, R53|ERA-0805|ERAS|24
+33|180R|Rectangular Thick Film Chip Resistor, 10 Ohm to 330k Ohm Range, 0.1% and 0.5% Tolerance, 0603 Size, 0.063 W|R18, R20, R30, R32, R42, R44, R55, R57|ERA-0603|ERA3Y|8
+34|330R|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0805 Size, 0.1 W|R19, R21, R22, R23, R31, R33, R34, R35, R43, R45, R46, R47, R56, R59, R61, R62|ERA-0805|ERAS|16
+35|220R|Metal Film Thermosensitive Chip Resistor, 0.56 Ohm to 10k Ohm Range, 5% Tolerance, 0805 Size, 0.1 W|R54, R58, R60|ERA-0805|ERAS|3
+36|SW DIP-5|DIP Switch, 5 Position, SPST|S1|N10A|SW DIP-5|1
+37|MOVE||S2|TACTILE_SWITCH|TACKTILE_SWITCH|1
+38|UP||S3|TACTILE_SWITCH|TACKTILE_SWITCH|1
+39|DOWN||S4|TACTILE_SWITCH|TACKTILE_SWITCH|1
+40|STM32F030C6T6|ARM Cortex-M0 32-bit MCU, 32 KB Flash, 4 KB Internal RAM, 39 I/Os, 48-pin LQFP, -40 to 85 degC, Tray|U1|STM-LQFP48_N|STM32F030C6T6|1
+41|SN74HC08D|Quadruple 2-Input Positive-AND Gate|U2, U4|D014_N|SN74HC08D|2
+42|SN75176BD|Differential Bus Transceiver|U3|D008_N|SN75176BD|1
+43|24AA01T-I/OT|1Kbit, 400kHz, 1.8V, I2C Serial EEPROM, 5-Pin SOT-23, Industrial Temperature, Tape and Reel|U5|SOT-23-OT5_N|24AA01T-I/OT|1
+44|TLV803MDBZR|Voltage Supervisor with Active-Low, Open Drain Reset, 1 Supply Monitored, -40 to 125 degC, 3-pin SOT-23 (DBZ), Green (RoHS & no Sb/Br)|U6|DBZ3_N|TLV803MDBZR|1
+45|MCS1802GS-10-Z||U7|SOIC-SN8_N|ACS71240|1
+46|L7805CV|Positive Voltage Regulator, 5V, 3-Pin TO-220|U8|TO220|L7805CV|1
+47|REG1117-3.3|800mA and 1A Low Dropout Positive Regulator 2.85V, 3.3V, 5V, and Adjustable|U9|ZZ311|REG1117-3.3|1
+48|MOC3081|Zero-Cross Optoisolator Triac Driver|U10, U11, U12, U13, U14, U15, U16, U17, U18, U19, U20, U21, U22, U23, U24, U25|DIP6|MOC3081|16

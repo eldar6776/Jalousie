@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=RELAY Pin=U1-18
+Removed Pin From Net: NetName=JAL7_DN Pin=U1-19
+Removed Pin From Net: NetName=JAL7_UP Pin=U1-20
+Removed Pin From Net: NetName=JAL4_UP Pin=U1-21
+Removed Pin From Net: NetName=JAL4_DN Pin=U1-22
+Removed Pin From Net: NetName=JAL6_DN Pin=U1-26
+Removed Pin From Net: NetName=JAL5_DN Pin=U1-27
+Removed Pin From Net: NetName=JAL6_UP Pin=U1-28
+Added Pin To Net: NetName=JAL7_DN Pin=U1-18
+Added Pin To Net: NetName=JAL7_UP Pin=U1-19
+Added Pin To Net: NetName=JAL6_DN Pin=U1-20
+Added Pin To Net: NetName=JAL6_UP Pin=U1-21
+Added Pin To Net: NetName=JAL5_DN Pin=U1-22
+Added Pin To Net: NetName=JAL4_DN Pin=U1-26
+Added Pin To Net: NetName=JAL4_UP Pin=U1-27
+Added Pin To Net: NetName=RELAY Pin=U1-28
